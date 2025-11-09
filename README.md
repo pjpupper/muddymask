@@ -1,11 +1,13 @@
-
-<p align="center">
-    <img width="900" src="https://camo.githubusercontent.com/72538a54846784f9606dae5c66f3db1f4ea6a682a3d6e007b154a9ff1578d5df/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f36373236386133336165643035396438326337373362316666383337346331302f643566623363303565376333666363632d64302f733230343878333037322f353136316639343866353836313532646464383939616639353631663337363166646334656536652e706e6a">
-</p>
-
+# ‎ ‎ ‎ 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=muddymask&color=cf1d26&style=flat&label=🎈" />
 </p>
+
+
+<p align="center">
+    <img width="900" src="https://64.media.tumblr.com/089c7ba44b58c93b7e982313e387591c/7c318399bf42617d-dd/s540x810/8b84e843c4f0ca11c2027681f27a0d1c91cbd02a.gifv">
+</p>
+
 
 <!-- Strawpage banner --> 
 <div align="center"> 
@@ -43,10 +45,11 @@
     <img width="330" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
 </p>
 
-<!-- Initials banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=d4d4d4&center=true&vCenter=true&width=1800&lines=j,+m,+a,+c+%E2%9D%A4%EF%B8%8F" alt="initials banner" />
+    <img width="900" src="https://64.media.tumblr.com/089c7ba44b58c93b7e982313e387591c/7c318399bf42617d-dd/s540x810/8b84e843c4f0ca11c2027681f27a0d1c91cbd02a.gifv">
 </p>
+
+# ‎ ‎ ‎ 
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
