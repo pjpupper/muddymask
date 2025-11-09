@@ -18,6 +18,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=moon+or+richie++%5C%5C++yumeshipper+%26+kinnie++%5C%5C++writer+%26+artist" alt="moon banner" />
 </p>
-
-
-# ‎ ‎ ‎ 
