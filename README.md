@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=829E9D&style=flat&label=🎈" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=cf1d26&style=flat&label=🎈" />
 </p>
 
 
@@ -13,14 +13,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=23&duration=2000&pause=500&color=f0f2f0&center=true&vCenter=true&width=100&lines=%CB%97%CB%8F%CB%8B" alt="left deco" />
 </p>
 
-<!-- Strawpage banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=19&duration=7000&pause=2000&color=d4d4d4&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
-</p>
+<!-- Strawpage banner --> 
+<div align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=d4d4d4&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" 
+/> 
+</div>
 
 <!-- Moon banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=19&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=moon+or+richie++%5C%5C++yumeshipper+%26+fictkin++%5C%5C++writer+%26+artist" alt="moon banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=moon+or+richie++%5C%5C++yumeshipper+%26+fictkin++%5C%5C++writer+%26+artist" alt="moon banner" />
 </p>
 
 <p align="right">
@@ -59,7 +60,7 @@
 
 <!-- Initials banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=19&duration=7000&pause=2000&color=d4d4d4&center=true&vCenter=true&width=1800&lines=j,+m,+a,+c+%E2%9D%A4%EF%B8%8F" alt="initials banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=courier&size=28&duration=7000&pause=2000&color=d4d4d4&center=true&vCenter=true&width=1800&lines=j,+m,+a,+c+%E2%9D%A4%EF%B8%8F" alt="initials banner" />
 </p>
 
 
