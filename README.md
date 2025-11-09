@@ -1,6 +1,7 @@
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=muddymask&style=plastic&color=99B3A6&label=time to float"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=829E9D&style=flat&label=time%20to%20float..." />
 </p>
+
 
 <p align="left">
   <!-- Left decoration -->
