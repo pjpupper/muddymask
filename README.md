@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=muddymask&color=829E9D&style=flat&label=time%20to%20float..." />
 </p>
 
@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-    <img width="350" src="https://64.media.tumblr.com/2bbc3ab1eeb5f22ff1d64945ab9a099e/e1aed535dca23fc5-56/s640x960/85d3e1dd945082587f5644e04b2fa442e9cd601a.pnj" alt="banner">
+    <img width="250" src="https://64.media.tumblr.com/2bbc3ab1eeb5f22ff1d64945ab9a099e/e1aed535dca23fc5-56/s640x960/85d3e1dd945082587f5644e04b2fa442e9cd601a.pnj" alt="banner">
 </p>
 
 <p align="right">
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-    <img width="350" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
+    <img width="250" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
 </p>
 
 <p align="left">
