@@ -9,7 +9,7 @@
 
 <!-- Strawpage banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=6000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=7000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
 </p>
 
 <!-- Moon banner -->
@@ -39,7 +39,7 @@
 
 <!-- Initials banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=5000&pause=2000&color=425756&center=true&vCenter=true&width=1800&lines=j+,+m+,+a+,+c+%F0%9F%A4%8D" alt="initials banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=7000&pause=2000&color=425756&center=true&vCenter=true&width=1800&lines=j+,+m+,+a+,+c+%F0%9F%A4%8D" alt="initials banner" />
 </p>
 
 
