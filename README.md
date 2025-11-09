@@ -59,7 +59,7 @@
 
 <!-- Initials banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=7000&pause=2000&color=425756&center=true&vCenter=true&width=1800&lines=j+,+m+,+a+,+c+%F0%9F%A4%8D" alt="initials banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=7000&pause=2000&color=425756&center=true&vCenter=true&width=1800&lines=j,+m,+a,+c+%F0%9F%A4%8D" alt="initials banner" />
 </p>
 
 
