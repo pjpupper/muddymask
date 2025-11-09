@@ -2,11 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=muddymask&style=plastic&color=99B3A6&label=eds..."/>
 </p>
 
-
-<p align="center">
-    <img width="350" src="https://64.media.tumblr.com/dc77a4aa87c565342b6a40ad182de6bc/7c318399bf42617d-c6/s540x810/fbfa05014af1ee97bc5a7e7c7b2c65187ef0d609.gifv" alt="rich">
-</p>
-
 <p align="left">
   <!-- Left decoration -->
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=23&duration=2000&pause=500&color=425756&center=true&vCenter=true&width=100&lines=%CB%97%CB%8F%CB%8B" alt="left deco" />
@@ -36,15 +31,15 @@
     <img width="350" src="https://i.postimg.cc/xCJQ9m03/tumblr-3cc546d18e7cf0ac63c202444ef25bab-29fba0d8-540.png" alt="eds">
 </p>
 
+
+
+
+
 <!-- Symbols banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=7000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=.++%DB%81%E2%82%95+%E2%8A%B9+.++%DB%81%CB%96+.++%DB%81" alt="symbols banner" />
 </p>
 
-
-<p align="center">
-    <img width="350" src="https://64.media.tumblr.com/dc77a4aa87c565342b6a40ad182de6bc/7c318399bf42617d-c6/s540x810/fbfa05014af1ee97bc5a7e7c7b2c65187ef0d609.gifv" alt="rich">
-</p>
 
 
 
