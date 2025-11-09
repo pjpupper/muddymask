@@ -1,3 +1,7 @@
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=muddymask&style=plastic&color=99B3A6&label=eds..."/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=5000&pause=2000&color=99B3A6&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" alt="strawpage banner" />
 </p>
@@ -5,7 +9,6 @@
 <p align="center">
     <img width="350" src="https://64.media.tumblr.com/dc77a4aa87c565342b6a40ad182de6bc/7c318399bf42617d-c6/s540x810/fbfa05014af1ee97bc5a7e7c7b2c65187ef0d609.gifv" alt="rich">
 </p>
-
 
 <p align="right">
     <img width="350" src="https://i.postimg.cc/hjkBvGvS/tumblr-5978a0fd780dad45248df86218dac02c-caf173cf-540.png" alt="rich">
