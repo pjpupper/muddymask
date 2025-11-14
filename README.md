@@ -1,11 +1,11 @@
 # ‎ ‎ ‎ 
 <p align="center">
-    <img width="700" src="https://64.media.tumblr.com/b921c466430f7aa6f4509d516769f345/d083df8da3513e0a-84/s640x960/68b1f6f7b04655b1a9fff7df1a552dd19c09bd89.pnj">
+    <img width="700" src="https://64.media.tumblr.com/cede1ac242ce74f347f692cbef78da2b/6c9f505f7c7a7e9b-21/s1280x1920/8066cc4efda061b0e6264d57bc90bba8becf156d.jpg">
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=cf271b&style=flat&label=🎈" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=b5474e&style=flat&label=🎈" />
 </p>
 
 
@@ -72,7 +72,7 @@ alt="other banner"
 
 
 <p align="center">
-    <img width="700" src="https://64.media.tumblr.com/b8c2e2f9523e706a3c27656fc182d23c/d083df8da3513e0a-e5/s640x960/7f01961cc942b2795d5421dc17144900ddfc605a.pnj">
+    <img width="700" src="https://64.media.tumblr.com/cede1ac242ce74f347f692cbef78da2b/6c9f505f7c7a7e9b-21/s1280x1920/8066cc4efda061b0e6264d57bc90bba8becf156d.jpg">
 </p>
 
 # ‎ ‎ ‎ 
