@@ -37,7 +37,7 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/CKTw3NSz/176314839325553573.gif" alt="rich">
+    <img width="400" src="https://i.postimg.cc/Hx148fmF/176314839325553573.webp" alt="rich">
 </p>
 
 <p align="center">
