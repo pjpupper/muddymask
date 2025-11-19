@@ -1,7 +1,7 @@
 # ‎ ‎ ‎
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=FFD1DC&style=flat&label=🌸,losvers" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=FFD1DC&style=flat&label=-(🌸)-losvers.-" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://64.media.tumblr.com/f6fae9058d1c40f661050a8ed1a0c932/339ae56e3acd8b0e-46/s540x810/0d35d44965068071f2ef39896cadef0ecc74a896.gif" alt="bill">
+    <img width="400" src="https://i.postimg.cc/cJd3w3k9/145da48c7db5d8b0cf2124912d43fc83.gif" alt="bill">
 </p>
 
 <p align="center">
