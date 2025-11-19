@@ -38,7 +38,7 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/cJd3w3k9/145da48c7db5d8b0cf2124912d43fc83.gif" alt="bill">
+    <img width="400" src="https://i.postimg.cc/SNrYqRxc/145da48c7db5d8b0cf2124912d43fc83-(1)-(1).gif" alt="bill">
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/NjDFhzb1/c2dc08b6fa75206797516fb116299e7f.png" alt="reddie">
+    <img width="400" src="https://i.postimg.cc/bJpjzyJS/image-(1).png" alt="reddie">
 </p>
 
 <p align="center">
