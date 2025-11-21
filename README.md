@@ -1,34 +1,22 @@
+
+<p align="center">
+    <img width="600" src="https://64.media.tumblr.com/333f24c67eb5537354b6965deff87db3/f6ea31639d1cde4f-7f/s2048x3072/7debc5aa237d6535bd311470eb1bf26d318eacbc.pnj">
+</p>
 # ‎ ‎ ‎
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=FFD1DC&style=flat&label=-(💊)gazebos" />
-</p>
-
-<p align="center">
-    <img width="600" src="https://64.media.tumblr.com/99a8a03b3215d44e5979faf01cbb96ac/6d6a639539246533-bb/s640x960/e3e5567b029004b434360280e41bd5b246de2c37.pnj">
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=9dc394&style=flat&label=🍃" />
 </p>
 
 
 
 <p align="center">
-    <img width="600" src="https://64.media.tumblr.com/96db06005f1a25e9b3d26e5b08515742/b15d23a765658ea4-99/s1280x1920/2492c868198af6ea594ed288db9b4234097052a6.pnj">
+my strawpage has all my links ...
 </p>
 
-<!-- Strawpage banner --> 
-<div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=FFD1DC&center=true&vCenter=true&width=1800&lines=%3C+my+strawpage+has+all+my+links+3" 
-alt="strawpage banner" 
-/> 
-</div>
-
-<!-- Moon banner --> 
-<p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=b3b3b3&center=true&vCenter=true&width=1800&lines=moon+or+richie+%2C+17+%2C+yumeshipper+%26+fictkin+%2C+writer+%26+artist" 
-  alt="moon banner" /> 
+<p align="center">
+𝚖𝚘𝚘𝚗‎ ‎ ‎ ‎ 𝚘𝚛‎ ‎‎ ‎ ‎  ‎𝚛𝚒𝚌𝚑𝚒𝚎,‎    ‎︵‎ ‎ ‎    ‎𝟽𝚝𝚎𝚎𝚗.‎ ‎ ‎‎ ‎|| ‎ ‎ ‎ 𝚢𝚞𝚖𝚎𝚜𝚑𝚒𝚙𝚙𝚎𝚛, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎𝚏𝚒𝚌𝚝𝚔𝚒𝚗, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎𝚠𝚛𝚒𝚝𝚎𝚛, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎𝚊𝚛𝚝𝚒𝚜𝚝
 </p>
-
-# ‎ ‎ ‎ 
-
 
 
 
@@ -38,7 +26,11 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/SNrYqRxc/145da48c7db5d8b0cf2124912d43fc83-(1)-(1).gif" alt="bill">
+    <img width="400" src="https://64.media.tumblr.com/f4f6d92d5d8d60775bd0c0b2f2fa1aad/tumblr_p0z7tkQkzS1wi0gkco7_r1_400.gif" alt="eddie">
+</p>
+
+<p align="center">
+pop star but i'm your boyfriends favourite dj ...
 </p>
 
 <p align="center">
@@ -47,33 +39,20 @@ alt="strawpage banner"
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/HxdCpYxW/image-(2).png" alt="reddie">
+    <img width="400" src="https://i.postimg.cc/pd0tZX5q/Screenshot-2025-11-21-at-9-26-26-am.png" alt="reddie">
 </p>
 
 <p align="center">
-    <img width="330" src="https://i.postimg.cc/h4CZq1MH/output-onlinepngtools-2.png" alt="banner">
+pop star, pop star ...
 </p>
 
-<!-- Other banner --> 
-<div align="center"> 
-<img src="https://readme-typing-svg.demolab.com?&size=24&duration=7000&pause=2000&color=FFD1DC&center=true&vCenter=true&width=1800&lines=%22guess+you+could+say+that+was+long+overdue.+get+it%3F+%27cause+we%27re+in+a...+library.%22" 
-alt="other banner" 
-/> 
-</div>
-
-
-
-# ‎ ‎ ‎ 
-
-
 <p align="center">
-    <img width="600" src="https://64.media.tumblr.com/96db06005f1a25e9b3d26e5b08515742/b15d23a765658ea4-99/s1280x1920/2492c868198af6ea594ed288db9b4234097052a6.pnj">
+    <img width="350" src="https://64.media.tumblr.com/f9255d2fa8b1a2d11978c306e1a6f296/ffa3b15ab0f75b77-09/s1280x1920/1485538142d8c6e5541ff9747d1b5811a9876be8.pnj" alt="banner">
 </p>
-
-
+# ‎ ‎ ‎
 
 <p align="center">
-    <img width="600" src="https://64.media.tumblr.com/99a8a03b3215d44e5979faf01cbb96ac/6d6a639539246533-bb/s640x960/e3e5567b029004b434360280e41bd5b246de2c37.pnj">
+    <img width="600" src="https://64.media.tumblr.com/333f24c67eb5537354b6965deff87db3/f6ea31639d1cde4f-7f/s2048x3072/7debc5aa237d6535bd311470eb1bf26d318eacbc.pnj">
 </p>
 
 # ‎ ‎ ‎ 
