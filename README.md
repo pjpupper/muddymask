@@ -1,11 +1,11 @@
 
 <p align="center">
-    <img width="600" src="https://64.media.tumblr.com/333f24c67eb5537354b6965deff87db3/f6ea31639d1cde4f-7f/s2048x3072/7debc5aa237d6535bd311470eb1bf26d318eacbc.pnj">
+    <img width="600" src="https://64.media.tumblr.com/6ad020dc521d300e86d965c9b0c5d931/12bc8f256de569fd-7c/s2048x3072/2b3aea0553cdef6e3e9790c1b3c6845381d29ff5.pnj">
 </p>
 # ‎ ‎ ‎
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=9dc394&style=flat&label=🍃" />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=fccdca&style=flat&label=." />
 </p>
 
 
@@ -26,7 +26,7 @@ my carrd has all my links ...
 
 
 <p align="center">
-    <img width="400" src="https://64.media.tumblr.com/f4f6d92d5d8d60775bd0c0b2f2fa1aad/tumblr_p0z7tkQkzS1wi0gkco7_r1_400.gif" alt="eddie">
+    <img width="400" src="https://64.media.tumblr.com/e07c95b47b76404a99ff768cc118a4dd/tumblr_p0z7tkQkzS1wi0gkco6_400.gif" alt="eddie">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ pop star but i'm your boyfriend's favourite dj ...
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/pd0tZX5q/Screenshot-2025-11-21-at-9-26-26-am.png" alt="reddie">
+    <img width="400" src="https://i.postimg.cc/hvPhwrjh/a7913cfc-78eb-4927-bdd3-c83b635e7da7.png" alt="reddie">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ pop star, pop star ...
 # ‎ ‎ ‎
 
 <p align="center">
-    <img width="600" src="https://64.media.tumblr.com/333f24c67eb5537354b6965deff87db3/f6ea31639d1cde4f-7f/s2048x3072/7debc5aa237d6535bd311470eb1bf26d318eacbc.pnj">
+    <img width="600" src="https://64.media.tumblr.com/6ad020dc521d300e86d965c9b0c5d931/12bc8f256de569fd-7c/s2048x3072/2b3aea0553cdef6e3e9790c1b3c6845381d29ff5.pnj">
 </p>
 
 # ‎ ‎ ‎ 
