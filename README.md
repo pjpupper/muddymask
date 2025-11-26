@@ -5,7 +5,7 @@
 # ‎ ‎ ‎
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muddymask&color=fccdca&style=flat&label=." />
+  <img src="https://komarev.com/ghpvc/?username=muddymask&color=F7DECF&style=flat&label=." />
 </p>
 
 
@@ -26,7 +26,7 @@ my carrd has all my links ...
 
 
 <p align="center">
-    <img width="400" src="https://64.media.tumblr.com/e07c95b47b76404a99ff768cc118a4dd/tumblr_p0z7tkQkzS1wi0gkco6_400.gif" alt="eddie">
+    <img width="400" src="https://i.postimg.cc/j5X092RM/176417025196603841.gif" alt="eddie">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ pop star but i'm your boyfriend's favourite dj ...
 
 
 <p align="center">
-    <img width="400" src="https://i.postimg.cc/hvPhwrjh/a7913cfc-78eb-4927-bdd3-c83b635e7da7.png" alt="reddie">
+    <img width="250" src="https://i.postimg.cc/c4rKJHB2/95456a90-68bb-4c7c-aa1b-5fa3fc634208.png" alt="reddie">
 </p>
 
 <p align="center">
