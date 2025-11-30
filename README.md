@@ -14,7 +14,7 @@
 
 
 <p align="center">
-    <img width="230" src="https://i.postimg.cc/k5cHcZJR/fa945c8b-5478-4996-b013-3b8bca7bc94a.png" alt="reddie">
+    <img width="230" src="https://i.postimg.cc/fL2SDCtv/f954c0eb-4c68-4bf6-a4e0-9eb7de09345d.png" alt="reddie">
 </p>
 
 <p align="center">
@@ -45,10 +45,10 @@ yumeshipper, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎fictkin,
 </p>
 
 <p align="center">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery152/33b34bb9.gif?v=e3c0bc0f" alt="1">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery303/b2dd56df.gif?v=e3c0bc0f" alt="2">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery304/6411f401.gif?v=e3c0bc0f" alt="3">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery307/ee73bde5.gif?v=e3c0bc0f" alt="4">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery284/21fce290.gif?v=e3c0bc0f" alt="1">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery284/d480b238.gif?v=e3c0bc0f" alt="2">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery06/0fc2ce1b.gif?v=e3c0bc0f" alt="3">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery286/069691d8.gif?v=e3c0bc0f" alt="4">
 </p>
 
 
