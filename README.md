@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=muddymask&label=♡&color=E4B49D&base=1234&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=muddymask&label=♡&color=B5D8DC&base=1234&style=for-the-badge">
 </div>
 <br><br>
 
