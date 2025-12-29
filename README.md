@@ -8,13 +8,21 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=muddymask&label=♡&color=B5D8DC&base=1234&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=muddymask&label=♡&color=B04141&base=1234&style=for-the-badge">
 </div>
 <br><br>
 
 
 <p align="center">
-    <img width="230" src="https://i.postimg.cc/fL2SDCtv/f954c0eb-4c68-4bf6-a4e0-9eb7de09345d.png" alt=".">
+    <img width="235" src="https://i.postimg.cc/5t7QhBxG/tumblr-a48de9c1fae9233cb847f8c863f1c7b7-6d548574-500.webp" alt=".">
+</p>
+
+<p align="center">
+    <img width="235" src="https://i.postimg.cc/KYvgpqyw/tumblr-ef30ddd2a215f1ee14f83bed8d48ff3b-6a10c732-2048.jpg" alt=".">
+</p>
+
+<p align="center">
+    <img width="235" src="https://i.postimg.cc/HLs7vZC6/tumblr-be661900482dce43d69f59fed7ab6693-b10a9320-500.webp" alt=".">
 </p>
 
 <p align="center">
@@ -45,10 +53,10 @@ yumeshipper, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎fictkin,
 </p>
 
 <p align="center">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery284/21fce290.gif?v=e3c0bc0f" alt="1">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery284/d480b238.gif?v=e3c0bc0f" alt="2">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery06/0fc2ce1b.gif?v=e3c0bc0f" alt="3">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery286/069691d8.gif?v=e3c0bc0f" alt="4">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery262/6e1c6313.gif?v=e3c0bc0f" alt="1">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery01/d35af779.gif?v=e3c0bc0f" alt="2">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery31/6657fac3.gif?v=e3c0bc0f" alt="3">
+    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery01/9e656c08.gif?v=e3c0bc0f" alt="4">
 </p>
 
 
