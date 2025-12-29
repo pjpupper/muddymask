@@ -14,16 +14,9 @@
 
 
 <p align="center">
-    <img width="235" src="https://i.postimg.cc/5t7QhBxG/tumblr-a48de9c1fae9233cb847f8c863f1c7b7-6d548574-500.webp" alt=".">
+    <img width="235" src="https://i.postimg.cc/Wz3mSSt0/bd10352c-9928-4527-a825-04d42255e443.png" alt=".">
 </p>
 
-<p align="center">
-    <img width="235" src="https://i.postimg.cc/KYvgpqyw/tumblr-ef30ddd2a215f1ee14f83bed8d48ff3b-6a10c732-2048.jpg" alt=".">
-</p>
-
-<p align="center">
-    <img width="235" src="https://i.postimg.cc/HLs7vZC6/tumblr-be661900482dce43d69f59fed7ab6693-b10a9320-500.webp" alt=".">
-</p>
 
 <p align="center">
 <br>
