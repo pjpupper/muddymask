@@ -20,7 +20,7 @@
 
 <p align="center">
 <br>
-<a href="https://muddymask.carrd.co/">about w/ links</a>
+<a href="https://pjpup.straw.page/">about</a>
 <br><br>
 </p>
 
