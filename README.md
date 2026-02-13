@@ -28,13 +28,6 @@ writer, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎artist
     <img width="350" src="https://64.media.tumblr.com/f9255d2fa8b1a2d11978c306e1a6f296/ffa3b15ab0f75b77-09/s1280x1920/1485538142d8c6e5541ff9747d1b5811a9876be8.pnj" alt="banner">
 </p>
 
-<p align="center">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery10/d0f8a7ce.png?v=e3c0bc0f" alt="1">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery10/490d5cb0.gif?v=e3c0bc0f" alt="2">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery10/aa81d95b.gif?v=e3c0bc0f" alt="3">
-    <img width="20" src="https://gifcity.carrd.co/assets/images/gallery10/5d94b9f3.gif?v=e3c0bc0f" alt="4">
-</p>
-
 
 
 # ‎ ‎ ‎ 
