@@ -19,7 +19,7 @@
 
 
 <p align="center"> 
-︵‎ ‎ ‎writer, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎artist 
+writer, ‎ ‎ ‎‎ ‎ ‎ ‎ ‎artist 
 </p>
 
 
