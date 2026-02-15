@@ -47,6 +47,7 @@ $\color{#c7d694}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 $\color{#c7d694}{\textsf{pj antis}}$ <br>
 $\color{#c7d694}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
 $\color{#c7d694}{\textsf{under 16s}}$ <br>
+$\color{#c7d694}{\textsf{religious people}}$ <br>
 $\color{#c7d694}{\textsf{political junkies}}$ <br>
 </th>
 </tr>
