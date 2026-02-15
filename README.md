@@ -1,8 +1,14 @@
 <div align="center">
 <img src="https://i.postimg.cc/xdhjwkFL/27099e1d-d100-4829-a06a-6a91b2ccd28a.jpg"/>
 
-<img src= "https://img.shields.io/badge/bloggers;-676767-E1EBEA?labelColor=black"/>
-<img src="https://gifcity.carrd.co/assets/images/gallery02/4b3bdf08.gif?v=49efbe4c"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/pjpupper?style=flat&label=squad;&labelColor=black&color=E1EBEA">
+
+</div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pjpupper&label=bloggers;%20&color=1b1c1c&style=flat" alt="pjpupper" /> </p>
+
+</div>‎ ‎ ‎‎ ‎ 
+
 
 <img src="https://64.media.tumblr.com/c4153c321a0f8afe0473bba118c568e8/49833ea7a3e178f3-5a/s1280x1920/b0861bf5a0cabd65c91272cb63b908e532540dc9.gifv"/>
 
