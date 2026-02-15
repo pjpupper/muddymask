@@ -20,7 +20,6 @@
   <tr>
     <th>
       $\color{#c7d694}{\textsf{c+h is fine, just don't be weird}}$ <br>
-      $\color{#c7d694}{\textsf{don't ask me to date you, i don't know you}}$ <br>
       $\color{#c7d694}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#c7d694}{\textsf{i have a lot of neuroses so don't be rude 2 me}}$ <br>
       $\color{#D3CDA9}{\textsf{i'm a minor}}$ <br>
