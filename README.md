@@ -1,7 +1,7 @@
 
 
   <div align="center">
-<img src="https://i.postimg.cc/yNVG0KbN/hader.png" title="ac: swatchitt" width="400">
+<img src="https://i.postimg.cc/yNVG0KbN/hader.png" title="ac: swatchitt" width="300">
 <br>
 <br>
   <table>
@@ -23,12 +23,12 @@
 <img src="https://i.postimg.cc/tTWhBZfr/tumblr-3db5e942e50fbd272fde08c73fda7405-021ad430-640.png" alt="div" width="750">
 
 <div align="center">
-
-<img src="https://i.postimg.cc/P50yKjJY/dfb36b01-87ad-4125-9a68-d0a27e52e3de.jpg" width="500" align="right" title="ac: arcsi0">
-
+  
 </div>
 
-<img src="https://64.media.tumblr.com/5cf7b51a5e6c79875334930e103dae5b/9f62b967c9c82766-e9/s640x960/30fc7950bd3e48a248fe420cb6dbcee0dd4f818d.pnj" width="135"> 
+<img src="https://i.postimg.cc/P50yKjJY/dfb36b01-87ad-4125-9a68-d0a27e52e3de.jpg" width="350" align="center" title="ac: arcsi0">
+
+
 <br>
 <br>
 
