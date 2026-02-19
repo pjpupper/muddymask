@@ -40,7 +40,6 @@
   <tr>
     <th>
       $\color{#940303}{\textsf{c+h is fine, just don't be weird}}$ <br>
-      $\color{#940303}{\textsf{flamboyant richie tozier believer}}$ <br>
       $\color{#940303}{\textsf{usually always off tab so w2i}}$ <br>
       $\color{#940303}{\textsf{i have a lot of neuroses so don't be rude 2 me}}$ <br>
       $\color{#940303}{\textsf{i'm a minor}}$ <br>
@@ -49,6 +48,8 @@
       $\color{#940303}{\textsf{i make a lot of freaky jokes}}$ <br>
       $\color{#940303}{\textsf{hippie}}$ <br>
       $\color{#940303}{\textsf{pj ransone defender}}$ <br>
+      $\color{#940303}{\textsf{flamboyant richie tozier believer}}$
+      $\color{#940303}{\textsf{yumeshipper}}$
 </th>
 </tr>
 </table>
