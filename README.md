@@ -48,8 +48,8 @@
       $\color{#940303}{\textsf{i make a lot of freaky jokes}}$ <br>
       $\color{#940303}{\textsf{hippie}}$ <br>
       $\color{#940303}{\textsf{pj ransone defender}}$ <br>
-      $\color{#940303}{\textsf{flamboyant richie tozier believer}}$
-      $\color{#940303}{\textsf{yumeshipper}}$
+      $\color{#940303}{\textsf{flamboyant richie tozier believer}}$ <br>
+      $\color{#940303}{\textsf{yumeshipper}}$ <br>
 </th>
 </tr>
 </table>
