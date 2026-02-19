@@ -53,7 +53,7 @@
 
 </div>
 
- <p align="center"><img src="https://komarev.com/ghpvc/?username=pjpupper&color=fafafa&style=for-the-badge&label=glasses+broken:"></p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=pjpupper&color=940303&style=for-the-badge&label=glasses+broken:"></p>
 
 <div align="center">
 
