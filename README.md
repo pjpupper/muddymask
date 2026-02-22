@@ -46,7 +46,7 @@ $\color{#f5542c}{\textsf{𝜗ৎ}}$ <br>
 <br/>
 <div align="center">
 
-<img  width="400" height="900" alt="image" src="https://i.postimg.cc/SsJjGwH5/tumblr-f83df467c3f248f9dc5512b2109124d9-84b18d52-2048-(1)-Photoroom.png" />
+<img  width="400" height="900" alt="image" src="https://64.media.tumblr.com/a6e5816da86aa1a73b9b829761918d96/460e539e45f2d3ae-d2/s2048x3072/c3f077e0ca3ca96fa4c644d56a853364eccc5bf2.pnj" />
 
 
 
