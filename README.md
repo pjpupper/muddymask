@@ -81,8 +81,6 @@ $\color{#f5542c}{\textsf{political junkies}}$ <br>
   <br/>
 <div align="center">
 
-<img width="120" height="120" alt="image" src="https://i.postimg.cc/ZK0jdRf0/Screenshot-2026-02-22-at-1-20-56-am.png" /> $\color{#5BC6E2}{\textsf{‎ꫂ᭪݁}}$ <img width="120" height="120" alt="image" src="https://i.postimg.cc/qvSFRn0P/Screenshot-2026-02-22-at-1-13-53-am.png" />
-
   <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=f5542c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
