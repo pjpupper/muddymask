@@ -61,7 +61,7 @@ $\color{#f5542c}{\textsf{𝜗ৎ}}$ <br>
   <tr>
     <th>
 $\color{#5BC6E2}{\textsf{proshippers}}$ <br>
-$\color{#5BC6E2}{\textsf{hannigram shippers}}$ <br>
+$\color{#5BC6E2}{\textsf{hannigram shippers, regan shippers (any ship that is abusive or noncon)}}$ <br>
 $\color{#5BC6E2}{\textsf{bigots}}$ <br>
 $\color{#5BC6E2}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 $\color{#5BC6E2}{\textsf{pj antis}}$ <br>
