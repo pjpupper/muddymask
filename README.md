@@ -36,7 +36,7 @@ $\color{#DE9565}{\textsf{𝜗ৎ}}$ <br>
       $\color{#DE9565}{\textsf{hippie}}$ <br>
       $\color{#DE9565}{\textsf{pj ransone defender}}$ <br>
       $\color{#DE9565}{\textsf{flamboyant richie tozier believer}}$ <br>
-      $\color{#DE9565}{\textsf{yumeshipper & fictkin}}$ <br>
+      $\color{#DE9565}{\textsf{yumeshipper + fictkin}}$ <br>
 </th>
 </tr>
 </table>
