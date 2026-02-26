@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="450" height="300" alt="image" src="https://64.media.tumblr.com/67208e071364315767871cd955c1d5c6/76f6621c96c1ea9f-8d/s2048x3072/c5847c1b4fbae852f47041fe1fe98757498a410d.pnj" />
+<img width="450" height="300" alt="image" src="https://i.postimg.cc/pdb74X2B/177206435986161603.png" />
 
 <br/>
   <br/>
@@ -94,7 +94,7 @@ $\color{#DE9565}{\textsf{political junkies}}$ <br>
 <div align="center">
 
 
-<img width="450" height="300" alt="image" src="https://64.media.tumblr.com/67208e071364315767871cd955c1d5c6/76f6621c96c1ea9f-8d/s2048x3072/c5847c1b4fbae852f47041fe1fe98757498a410d.pnj" />
+<img width="450" height="300" alt="image" src="https://i.postimg.cc/pdb74X2B/177206435986161603.png" />
 
 
 </div>
