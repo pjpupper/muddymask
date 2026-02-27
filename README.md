@@ -13,7 +13,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="450" src="https://i.postimg.cc/QNk7wgVR/tumblr-ba136a3044ec54d3c7fb517e62d53b6c-41637a3d-540-(1)-(1).gif" />
+<img width="450" src="https://i.postimg.cc/Z52m5RQQ/tumblr-95d0cf77d5c26576ee5d5117329d0f93-ba18fb41-540.gif" />
 
 
 </div>
