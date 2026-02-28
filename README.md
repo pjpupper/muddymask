@@ -69,7 +69,7 @@ $\color{#DAD6C3}{\textsf{hannigram shippers}}$ <br>
 $\color{#DAD6C3}{\textsf{regan shippers}}$ <br>
 $\color{#DAD6C3}{\textsf{bigots}}$ <br>
 $\color{#DE9565}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
-$\color{#DE9565}{\textsf{pj antis}}$ <br>
+$\color{#DE9565}{\textsf{pj ransone antis}}$ <br>
 $\color{#DE9565}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
 $\color{#DE9565}{\textsf{under 16s}}$ <br>
 $\color{#DE9565}{\textsf{abusers}}$ <br>
