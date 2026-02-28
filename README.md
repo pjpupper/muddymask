@@ -62,15 +62,15 @@ $\color{#DE9565}{\textsf{𝜗ৎ}}$ <br>
 <table>
   <tr>
     <th>
+$\color{#DAD6C3}{\textsf{under 16s}}$ <br>
 $\color{#DAD6C3}{\textsf{proshippers}}$ <br>
 $\color{#DAD6C3}{\textsf{darkshippers}}$ <br>
 $\color{#DAD6C3}{\textsf{hannigram shippers}}$ <br>
 $\color{#DAD6C3}{\textsf{regan shippers}}$ <br>
-$\color{#DAD6C3}{\textsf{bigots}}$ <br>
+$\color{#DAD6C3}{\textsf{bigots, racists}}$ <br>
 $\color{#DE9565}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 $\color{#DE9565}{\textsf{pj ransone antis}}$ <br>
 $\color{#DE9565}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
-$\color{#DE9565}{\textsf{under 16s}}$ <br>
 $\color{#DE9565}{\textsf{abusers}}$ <br>
 $\color{#DE9565}{\textsf{people who call themselves problematic}}$ <br>
 $\color{#DE9565}{\textsf{religious people}}$ <br>
