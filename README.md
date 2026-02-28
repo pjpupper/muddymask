@@ -33,7 +33,6 @@ $\color{#DE9565}{\textsf{𝜗ৎ}}$ <br>
       $\color{#DAD6C3}{\textsf{not as active as i'd like to be}}$ <br>
       $\color{#DE9565}{\textsf{i swear a lot}}$ <br>
       $\color{#DE9565}{\textsf{i make a lot of freaky jokes}}$ <br>
-      $\color{#DE9565}{\textsf{hippie}}$ <br>
       $\color{#DE9565}{\textsf{pj ransone defender}}$ <br>
       $\color{#DE9565}{\textsf{flamboyant richie tozier believer}}$ <br>
       $\color{#DE9565}{\textsf{yumeshipper + fictkin}}$ <br>
