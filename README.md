@@ -28,13 +28,12 @@ $\color{#DE9565}{\textsf{𝜗ৎ}}$ <br>
     <th>
       $\color{#DAD6C3}{\textsf{c+h is fine, just don't be weird}}$ <br>
       $\color{#DAD6C3}{\textsf{usually always off tab so w2i}}$ <br>
-      $\color{#DAD6C3}{\textsf{i have a lot of neuroses so don't be rude 2 me}}$ <br>
-      $\color{#DAD6C3}{\textsf{i'm a minor}}$ <br>
       $\color{#DAD6C3}{\textsf{not as active as i'd like to be}}$ <br>
+      $\color{#DAD6C3}{\textsf{mentally unstable}}$ <br>
+      $\color{#DAD6C3}{\textsf{trust issues}}$ <br>
+      $\color{#DAD6C3}{\textsf{i'm a minor}}$ <br>
       $\color{#DE9565}{\textsf{i swear a lot}}$ <br>
-      $\color{#DE9565}{\textsf{i make a lot of freaky jokes}}$ <br>
       $\color{#DE9565}{\textsf{pj ransone defender}}$ <br>
-      $\color{#DE9565}{\textsf{flamboyant richie tozier believer}}$ <br>
       $\color{#DE9565}{\textsf{yumeshipper + fictkin}}$ <br>
 </th>
 </tr>
@@ -68,13 +67,13 @@ $\color{#DAD6C3}{\textsf{darkshippers}}$ <br>
 $\color{#DAD6C3}{\textsf{hannigram shippers}}$ <br>
 $\color{#DAD6C3}{\textsf{regan shippers}}$ <br>
 $\color{#DAD6C3}{\textsf{bigots, racists}}$ <br>
-$\color{#DE9565}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
-$\color{#DE9565}{\textsf{pj ransone antis}}$ <br>
-$\color{#DE9565}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
 $\color{#DE9565}{\textsf{abusers}}$ <br>
-$\color{#DE9565}{\textsf{people who call themselves problematic}}$ <br>
+$\color{#DE9565}{\textsf{pj ransone antis}}$ <br>
 $\color{#DE9565}{\textsf{religious people}}$ <br>
 $\color{#DE9565}{\textsf{political junkies}}$ <br>
+$\color{#DE9565}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
+$\color{#DE9565}{\textsf{people who call themselves problematic}}$ <br>
+$\color{#DE9565}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 </th>
 </tr>
 </table>
