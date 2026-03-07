@@ -34,6 +34,7 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ}}$ <br>
       $\color{#FFFFFF}{\textsf{i'm a minor}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
       $\color{#FFFFFF}{\textsf{pj ransone defender}}$ <br>
+      $\color{#FFFFFF}{\textsf{bill hader obsessed}}$ <br>
       $\color{#FFFFFF}{\textsf{yumeshipper + fictkin}}$ <br>
 </th>
 </tr>
