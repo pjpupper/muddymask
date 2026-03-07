@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="450" height="300" alt="image" src="https://i.postimg.cc/44BXRRDY/177229372235987495.png" />
+<img width="220" height="300" alt="image" src="https://i.postimg.cc/NfgVjtS7/177285181995061065.png" />
 
 <br/>
   <br/>
 
-<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=pjpupper&label=glasses%20broken&color=F0D9D1&style=flat"
+<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=pjpupper&label=glasses%20broken&color=040909&style=flat"
 alt="pjpupper" /p
 
 </div>
@@ -13,7 +13,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="450" src="https://i.postimg.cc/PrpQnTCr/e.gif" />
+<img width="220" src="https://i.postimg.cc/Zq2tWQ31/tumblr-inline-mxb8rc-Vi3h1rghlkc540-(1)-(1).gif" />
 
 
 </div>
@@ -21,20 +21,20 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-$\color{#F0D9D1}{\textsf{𝜗ৎ}}$ <br>
+$\color{#FFFFFF}{\textsf{𝜗ৎ}}$ <br>
 
 <table>
   <tr>
     <th>
-      $\color{#F0D9D1}{\textsf{c+h is fine, just don't be weird}}$ <br>
-      $\color{#F0D9D1}{\textsf{usually always off tab so w2i}}$ <br>
-      $\color{#F0D9D1}{\textsf{not as active as i'd like to be}}$ <br>
-      $\color{#F0D9D1}{\textsf{mentally unstable}}$ <br>
-      $\color{#F0D9D1}{\textsf{trust issues}}$ <br>
-      $\color{#DAD6C3}{\textsf{i'm a minor}}$ <br>
-      $\color{#DCA9A0}{\textsf{i swear a lot}}$ <br>
-      $\color{#DCA9A0}{\textsf{pj ransone defender}}$ <br>
-      $\color{#DCA9A0}{\textsf{yumeshipper + fictkin}}$ <br>
+      $\color{#D8DAD4}{\textsf{c+h is fine, just don't be weird}}$ <br>
+      $\color{#D8DAD4}{\textsf{usually always off tab so w2i}}$ <br>
+      $\color{#D8DAD4}{\textsf{not as active as i'd like to be}}$ <br>
+      $\color{#D8DAD4}{\textsf{mentally unstable}}$ <br>
+      $\color{#D8DAD4}{\textsf{trust issues}}$ <br>
+      $\color{#FFFFFF}{\textsf{i'm a minor}}$ <br>
+      $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
+      $\color{#FFFFFF}{\textsf{pj ransone defender}}$ <br>
+      $\color{#FFFFFF}{\textsf{yumeshipper + fictkin}}$ <br>
 </th>
 </tr>
 </table>
@@ -47,7 +47,7 @@ $\color{#F0D9D1}{\textsf{𝜗ৎ}}$ <br>
 <br/>
 <div align="center">
 
-<img  width="400" height="900" alt="image" src="https://i.postimg.cc/htxFjk5h/177229381408427238.png" />
+<img  width="35" height="900" alt="image" src="https://i.postimg.cc/X7pftghx/40bm9y.gif" />
 
 
 
@@ -57,23 +57,23 @@ $\color{#F0D9D1}{\textsf{𝜗ৎ}}$ <br>
   <br/>
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=23&duration=1&pause=5000&color=F0D9D1&center=true&vCenter=true&width=200&height=25&lines=dni" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=23&duration=1&pause=5000&color=FFFFFF&center=true&vCenter=true&width=200&height=25&lines=dni" alt="Typing SVG" /></a>
 <table>
   <tr>
     <th>
-$\color{#F0D9D1}{\textsf{under 16s}}$ <br>
-$\color{#F0D9D1}{\textsf{proshippers}}$ <br>
-$\color{#F0D9D1}{\textsf{darkshippers}}$ <br>
-$\color{#F0D9D1}{\textsf{hannigram shippers}}$ <br>
-$\color{#F0D9D1}{\textsf{regan shippers}}$ <br>
-$\color{#F0D9D1}{\textsf{bigots, racists}}$ <br>
-$\color{#DCA9A0}{\textsf{abusers}}$ <br>
-$\color{#DCA9A0}{\textsf{pj ransone antis}}$ <br>
-$\color{#DCA9A0}{\textsf{religious people}}$ <br>
-$\color{#DCA9A0}{\textsf{political junkies}}$ <br>
-$\color{#DCA9A0}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
-$\color{#DCA9A0}{\textsf{people who call themselves problematic}}$ <br>
-$\color{#DCA9A0}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
+$\color{#FFFFFF}{\textsf{under 16s}}$ <br>
+$\color{#FFFFFF}{\textsf{proshippers}}$ <br>
+$\color{#FFFFFF}{\textsf{darkshippers}}$ <br>
+$\color{#FFFFFF}{\textsf{hannigram shippers}}$ <br>
+$\color{#FFFFFF}{\textsf{regan shippers}}$ <br>
+$\color{#FFFFFF}{\textsf{bigots, racists}}$ <br>
+$\color{#D8DAD4}{\textsf{abusers}}$ <br>
+$\color{#D8DAD4}{\textsf{pj ransone antis}}$ <br>
+$\color{#D8DAD4}{\textsf{religious people}}$ <br>
+$\color{#D8DAD4}{\textsf{political junkies}}$ <br>
+$\color{#D8DAD4}{\textsf{myra kaspbrak dehumanisers}}$ <br>   
+$\color{#D8DAD4}{\textsf{people who call themselves problematic}}$ <br>
+$\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 </th>
 </tr>
 </table>
@@ -92,7 +92,7 @@ $\color{#DCA9A0}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 <div align="center">
 
 
-<img width="450" height="300" alt="image" src="https://i.postimg.cc/44BXRRDY/177229372235987495.png" />
+<img width="220" height="300" alt="image" src="https://i.postimg.cc/NfgVjtS7/177285181995061065.png" />
 
 
 </div>
