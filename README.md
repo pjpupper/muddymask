@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img width="220" height="300" alt="image" src="https://i.postimg.cc/NfgVjtS7/177285181995061065.png" />
+<img width="200" height="300" alt="image" src="https://i.postimg.cc/NfgVjtS7/177285181995061065.png" />
 
 <br/>
   <br/>
