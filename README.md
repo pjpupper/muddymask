@@ -21,7 +21,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-$\color{#FFFFFF}{\textsf{𝜗ৎ please read!}}$ <br>
+$\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 
 <table>
   <tr>
