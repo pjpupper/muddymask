@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="220" height="300" alt="image" src="https://i.postimg.cc/NfgVjtS7/177285181995061065.png" />
+<img width="360" height="300" alt="image" src="https://i.postimg.cc/KvYBjd69/a.gif" />
 
 <br/>
   <br/>
@@ -15,7 +15,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="300" src="https://i.postimg.cc/g2FR4xc1/image-(20).png" />
+<img width="360" src="https://i.postimg.cc/mZj7bb5z/a.png" />
 
 
 </div>
@@ -95,7 +95,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 
 
-<img width="220" height="300" alt="image" src="https://i.postimg.cc/NfgVjtS7/177285181995061065.png" />
+<img width="360" height="300" alt="image" src="https://i.postimg.cc/KvYBjd69/a.gif" />
 
 
 </div>
