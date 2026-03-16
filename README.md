@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img width="360" height="300" alt="image" src="https://i.postimg.cc/qRByn0rR/a.png" />
+<img width="360" height="300" alt="image" src="https://i.postimg.cc/h4xxCMw2/uo9mwl.png" />
 
   <br/>
     <br/>
 
-<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=pjpupper&label=glasses%20broken&color=1C6E6B&style=flat"
+<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=pjpupper&label=glasses%20broken&color=F8B2B8&style=flat"
 alt="pjpupper" /p
 
 </div>
@@ -15,7 +15,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="360" src="https://i.postimg.cc/qRByn0rM/a.png" />
+<img width="360" src="https://i.postimg.cc/CxLpf7MK/pjwithfriends.png" />
 
 
 </div>
@@ -95,7 +95,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 
 
-<img width="360" height="300" alt="image" src="https://i.postimg.cc/qRByn0rR/a.png" />
+<img width="360" height="300" alt="image" src="https://i.postimg.cc/h4xxCMw2/uo9mwl.png" />
 
 
 </div>
