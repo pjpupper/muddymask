@@ -35,8 +35,8 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
       $\color{#D8DAD4}{\textsf{trust issues}}$ <br>
       $\color{#FFFFFF}{\textsf{i'm a minor}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
-      $\color{#FFFFFF}{\textsf{pj ransone defender}}$ <br>
-      $\color{#FFFFFF}{\textsf{bill hader obsessed}}$ <br>
+      $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
+      $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
       $\color{#FFFFFF}{\textsf{yumeshipper + fictkin}}$ <br>
 </th>
 </tr>
