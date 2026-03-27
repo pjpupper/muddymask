@@ -15,7 +15,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="340" src="https://i.postimg.cc/RVPS9zVf/e.png" />
+<img width="340" src="https://i.postimg.cc/KvVnzw0B/162005-original-(3).png" />
 
 
 </div>
@@ -50,7 +50,7 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 <br/>
 <div align="center">
 
-<img  width="35" height="900" alt="image" src="https://gifcity.carrd.co/assets/images/gallery08/49613374.gif?v=20a350bf" />
+<img  width="35" height="900" alt="image" src="https://gifcity.carrd.co/assets/images/gallery271/7ff35bfe.gif?v=20a350bf" />
 
 
 
