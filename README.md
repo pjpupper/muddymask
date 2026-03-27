@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img width="360" height="300" alt="image" src="https://i.postimg.cc/h4xxCMw2/uo9mwl.png" />
+<img width="360" height="300" alt="image" src="https://i.postimg.cc/BQ27WyFW/p3bvd1.png" />
 
   <br/>
     <br/>
 
-<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=pjpupper&label=glasses%20broken&color=F8B2B8&style=flat"
+<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=pjpupper&label=glasses%20broken&color=230F0E&style=flat"
 alt="pjpupper" /p
 
 </div>
@@ -15,7 +15,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="360" src="https://i.postimg.cc/CxLpf7MK/pjwithfriends.png" />
+<img width="360" src="https://i.postimg.cc/RVPS9zVf/e.png" />
 
 
 </div>
@@ -50,7 +50,7 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 <br/>
 <div align="center">
 
-<img  width="35" height="900" alt="image" src="https://gifcity.carrd.co/assets/images/gallery97/476d3b1c.gif?v=49efbe4c" />
+<img  width="35" height="900" alt="image" src="https://gifcity.carrd.co/assets/images/gallery08/49613374.gif?v=20a350bf" />
 
 
 
@@ -95,7 +95,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 
 
-<img width="360" height="300" alt="image" src="https://i.postimg.cc/h4xxCMw2/uo9mwl.png" />
+<img width="360" height="300" alt="image" src="https://i.postimg.cc/X791Mh5r/sfh0vk.png" />
 
 
 </div>
