@@ -50,7 +50,7 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 <br/>
 <div align="center">
 
-<img  width="35" height="900" alt="image" src="https://i.postimg.cc/ZRqks8Qr/fenz9w.webp" />
+<img  width="35" height="900" alt="image" src="https://i.postimg.cc/9FZ1Tcsm/a.gif" />
 
 
 
