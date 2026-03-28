@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="300" height="300" alt="image" src="https://i.postimg.cc/DyTL9LYk/a.png" />
+<img width="300" height="300" alt="image" src="https://i.postimg.cc/BQ27WyFW/p3bvd1.png" />
 
   <br/>
     <br/>
@@ -15,7 +15,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="230" src="https://i.postimg.cc/7ZX6QTpv/image-(47).png" />
+<img width="250" src="https://i.postimg.cc/nVgtffmM/a.gif" />
 
 
 </div>
@@ -50,7 +50,7 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 <br/>
 <div align="center">
 
-<img  width="35" height="900" alt="image" src="https://i.postimg.cc/9FZ1Tcsm/a.gif" />
+<img  width="35" height="900" alt="image" src="https://i.postimg.cc/Xq8V6CSQ/IMG-0729.png" />
 
 
 
@@ -95,7 +95,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 
 
-<img width="300" height="300" alt="image" src="https://i.postimg.cc/DyTL9LYk/a.png" />
+<img width="300" height="300" alt="image" src="https://i.postimg.cc/X791Mh5r/sfh0vk.png" />
 
 
 </div>
