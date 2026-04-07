@@ -15,7 +15,7 @@ alt="pjpupper" /p
 <br/>
 <div align="center">
 
-<img width="397" src="https://i.postimg.cc/zBXv04RB/a.png" />
+<img width="395" src="https://i.postimg.cc/zBXv04RB/a.png" />
 
 
 </div>
