@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="300" height="300" alt="image" src="https://i.postimg.cc/BQ27WyFW/p3bvd1.png" />
+<img width="320" height="300" alt="image" src="https://i.postimg.cc/zvP36pY2/a.png" />
 
   <br/>
     <br/>
@@ -95,7 +95,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 
 
-<img width="300" height="300" alt="image" src="https://i.postimg.cc/X791Mh5r/sfh0vk.png" />
+<img width="320" height="300" alt="image" src="https://i.postimg.cc/fyFTBLxb/a.png" />
 
 
 </div>
