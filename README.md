@@ -1,27 +1,22 @@
 <div align="center">
 
-<div align="center">
-
-<img width="310" height="300" alt="image" src="https://i.postimg.cc/h4xxCMw2/uo9mwl.png" />
-
-  <br/>
-    <br/>
-
-<p align="center"> <img width="100" height="100" src="https://komarev.com/ghpvc/?username=pjpupper&label=glasses%20broken&color=E5929F&style=flat"
-alt="pjpupper" /p
-
-</div>
-<br/>
-<br/>
-<div align="center">
-
-<img width="430" src="https://i.postimg.cc/kXkg8GB8/a.png" />
 
 
 </div>
 <br/>
 <br/>
 <div align="center">
+
+
+
+<div align="center">
+
+<h6 align="center">
+ 
+ ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=E5929F&abbreviated=true)
+
+
+![Image](https://i.postimg.cc/kXkg8GB8/a.png)
 
 $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 
@@ -43,17 +38,18 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 </table>
 
 
-</div>
+
+
 
 </div>
 <br/>
+
+<h6 align="center">
+  ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎   ִ ‎ ‎ ‎ 
+
+
 <br/>
 <div align="center">
-
-<img  width="35" height="900" alt="image" src="https://i.postimg.cc/Xq8V6CSQ/IMG-0729.png" />
-
-
-
 
 <div/>
 <br/>
@@ -86,16 +82,16 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 <div/>
   <br/>
 
-<div align="center">
 
+![image](https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?ex=68d037b1&is=68cee631&hm=e8d98dd827904cf2ff71f1a3d7798c1706f9c37b6746a33b0869ce70cea5c1b8&)
+
+
+<h6 align="center">
+𓂃  read rentry for more𓈒
+
+ 
   <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314b5pbne45y575ipjt3n4kec47e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <br/>
-
-
-<img width="310" height="300" alt="image" src="https://i.postimg.cc/h4xxCMw2/uo9mwl.png" />
-
-
-</div>
