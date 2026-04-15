@@ -3,8 +3,6 @@
 
 
 </div>
-<br/>
-<br/>
 <div align="center">
 
 
@@ -16,7 +14,7 @@
  ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=E5929F&abbreviated=true)
 
 
-![Image](https://i.postimg.cc/kXkg8GB8/a.png)
+<img width="550" height="400" alt="image" src="https://i.postimg.cc/kXkg8GB8/a.png" />
 
 $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 
@@ -83,7 +81,6 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
   <br/>
 
 
-![image](https://cdn.discordapp.com/attachments/1394835939809034320/1419014454531592223/IMG_4060.gif?ex=68d037b1&is=68cee631&hm=e8d98dd827904cf2ff71f1a3d7798c1706f9c37b6746a33b0869ce70cea5c1b8&)
 
 
 <h6 align="center">
