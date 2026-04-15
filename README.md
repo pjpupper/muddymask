@@ -16,7 +16,7 @@
 
 <img width="555" height="400" alt="image" src="https://i.postimg.cc/kXkg8GB8/a.png" />
 
-$\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
+$\color{#FFFFFF}{\textsf{please read bfyi!}}$ <br>
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
   <br/>
   <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manufacturing+Consent&size=23&duration=1&pause=5000&color=FFFFFF&center=true&vCenter=true&width=200&height=25&lines=dni" alt="Typing SVG" /></a>
+$\color{#FFFFFF}{\textsf{dni}}$ <br>
 
 <table>
   <tr>
