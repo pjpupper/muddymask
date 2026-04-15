@@ -14,7 +14,7 @@
  ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=E5929F&abbreviated=true)
 
 
-<img width="550" height="400" alt="image" src="https://i.postimg.cc/kXkg8GB8/a.png" />
+<img width="555" height="400" alt="image" src="https://i.postimg.cc/kXkg8GB8/a.png" />
 
 $\color{#FFFFFF}{\textsf{𝜗ৎ please read bfyi!}}$ <br>
 
@@ -84,7 +84,7 @@ $\color{#D8DAD4}{\textsf{pedos, nazis, necros, zoos, rape fetishers}}$ <br>
 
 
 <h6 align="center">
-𓂃  read rentry for more𓈒
+𓂃  read rentry for more
 
  
   <br/>
