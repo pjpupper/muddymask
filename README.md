@@ -14,7 +14,7 @@
  ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=E5929F&abbreviated=true)
 
 
-<img width="555" height="400" alt="image" src="https://i.postimg.cc/kXkg8GB8/a.png" />
+<img width="700" height="400" alt="image" src="https://i.postimg.cc/cHL7hB5p/a.gif" />
 
 $\color{#FFFFFF}{\textsf{please read bfyi!}}$ <br>
 
