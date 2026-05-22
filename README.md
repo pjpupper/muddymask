@@ -30,7 +30,7 @@ $\color{#FFFFFF}{\textsf{please read bfyi!}}$ <br>
       $\color{#FFFFFF}{\textsf{i swear a lot}}$ <br>
       $\color{#FFFFFF}{\textsf{pj ransone obsessed}}$ <br>
       $\color{#FFFFFF}{\textsf{bill hader lover}}$ <br>
-      $\color{#FFFFFF}{\textsf{yumeshipper + fictkin}}$ <br>
+      $\color{#FFFFFF}{\textsf{hippie}}$ <br>
 </th>
 </tr>
 </table>
