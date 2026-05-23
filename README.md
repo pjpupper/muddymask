@@ -23,7 +23,7 @@ $\color{#FFFFFF}{\textsf{please read bfyi!}}$ <br>
     <th>
       $\color{#D8DAD4}{\textsf{c+h is fine, just don't be weird}}$ <br>
       $\color{#D8DAD4}{\textsf{usually always off tab so w2i}}$ <br>
-      $\color{#D8DAD4}{\textsf{not as active as i'd like to be}}$ <br>
+      $\color{#D8DAD4}{\textsf{not super active}}$ <br>
       $\color{#D8DAD4}{\textsf{mentally unstable}}$ <br>
       $\color{#D8DAD4}{\textsf{trust issues}}$ <br>
       $\color{#FFFFFF}{\textsf{i'm a minor}}$ <br>
