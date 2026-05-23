@@ -16,7 +16,7 @@
 
 <img width="670" height="400" alt="image" src="https://i.postimg.cc/bwvF73cX/a.gif" />
 
-$\color{#FFFFFF}{\textsf{please read bfyi!}}$ <br>
+$\color{#FFFFFF}{\textsf{BFYI}}$ <br>
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ $\color{#FFFFFF}{\textsf{please read bfyi!}}$ <br>
   <br/>
   <div align="center">
 
-$\color{#FFFFFF}{\textsf{dni}}$ <br>
+$\color{#FFFFFF}{\textsf{DNI}}$ <br>
 
 <table>
   <tr>
