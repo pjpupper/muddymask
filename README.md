@@ -11,7 +11,7 @@
 
 <h6 align="center">
  
- ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=E4C9A8&abbreviated=true)
+ ![profileviews](https://komarev.com/ghpvc/?username=pjpupper&style=plastic&label=otters+&color=6C2A13&abbreviated=true)
 
 
 <img width="570" height="400" alt="image" src="https://64.media.tumblr.com/5510f3dd56d3c19e52f51bd9daa92e6c/2134dfd7dadec49a-2c/s540x810/33462a5913949478c8a5b38023304604ba93534e.jpg" />
